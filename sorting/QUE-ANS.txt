@@ -1,0 +1,230 @@
+QUE-ANS
+
+1. What is DSA?  
+DSA means organizing and solving problems with data.
+
+2. Why is DSA important?  
+It helps us write better and faster programs.
+
+3. What are types of data structures?  
+Arrays, Linked List, Stack, Queue, Tree, Graph.
+
+4. What is programming?  
+Giving instructions to a computer to do tasks.
+
+5. Who developed C++ and when ?  
+C++ was developed by Bjarne Stroustrup in 1979.
+
+6. Why is C++ used?  
+For games, apps, and system software.
+
+7. What is a compiler?  
+It changes full code into machine language.
+
+8. What is an interpreter?  
+It runs the code line by line.
+
+9. What is a variable?  
+A place to store data.
+
+10. What is a constant?  
+A value that does not change.
+
+11. What is a keyword?  
+A word that has special meaning in programming.
+
+12. What is a data type?  
+It tells what kind of value (like number or letter) a variable holds.
+
+13. What is GitHub?  
+A website to save and share code.
+
+14. What is Git?  
+A tool to track code changes.
+
+15. Why use GitHub?  
+To work in teams and keep code safe.
+
+16. What is a repository?  
+A folder on GitHub to store code.
+
+17. What are operators?  
+Symbols to do math and logic.
+
+18. What is a comparison operator?  
+It compares two values.
+
+19. What is a logical operator?  
+It connects conditions.
+
+20. What is a ternary operator?  
+A shortcut for if else.
+
+21. Why use loops?  
+To do the same thing many times easily.
+
+22. What is a pattern in coding?  
+Printing shapes using loops.
+
+23. What is an array?  
+A list of similar values.
+
+24. Why use arrays?  
+To store many values in one place.
+
+25. What is the size of an array?  
+How many items it can hold.
+
+26. What is array traversal?  
+Going through all elements in an array.
+
+27. What is CRUD in arrays?  
+Create, Read, Update, Delete elements.
+
+28. What is a function?  
+A set of code that does a task.
+
+29. What is TNRN?  
+Takes No input, Returns Nothing.
+
+30. What is TSRN?  
+Takes Some input, Returns Nothing.
+
+31. What is TNRS?  
+Takes No input, Returns Something.
+
+32. What is TSRS?  
+Takes Some input, Returns Something.
+
+33. What is recursion?  
+A function calling itself.
+
+34. What is a pointer?  
+A variable that stores an address.
+
+35. Why use pointers?  
+To use memory smartly.
+
+36. What is a pointer to pointer?  
+A pointer that stores another pointer’s address.
+
+37. What is call by value?  
+Sending a copy of data.
+
+38. What is call by reference?  
+Sending actual data.
+
+39. What is the address of a variable?  
+Its location in memory.
+
+40. What is OOP?  
+A way of programming using objects.
+
+41. What is a class?  
+A design or blueprint.
+
+42. What is an object?  
+A real version of a class.
+
+43. What is encapsulation?  
+Keeping data safe inside a class.
+
+44. What is inheritance?  
+Getting features from another class.
+
+45. What is polymorphism?  
+One thing behaves in many ways.
+
+46. What is abstraction?  
+Hiding details, showing only necessary parts.
+
+47. What is a constructor?  
+Runs when an object is made.
+
+48. What is a destructor?  
+Runs when an object is removed.
+
+49. What is overloading?  
+Same name, different tasks.
+
+50. What is overriding?  
+Changing a function in the child class.
+
+51. What is a private member?  
+Can only be used inside the class.
+
+52. What is a public member?  
+Can be used anywhere.
+
+53. What is static memory?  
+Fixed memory.
+
+54. What is dynamic memory?  
+Memory made at runtime.
+
+55. What is new keyword?  
+Used to create memory.
+
+56. What is delete keyword?  
+Used to free memory.
+
+57. Why use dynamic memory?  
+To save space and create flexible programs.
+
+58. What is the difference between C and C++?  
+C is a procedural programming language that follows a top-down approach.  
+C++ is an object-oriented programming language that follows a bottom-up approach.  
+C does not support classes and objects, while C++ supports features like classes, objects, inheritance, polymorphism, and encapsulation.  
+C is mainly used for system-level programming.  
+C++ is used for system programming as well as application development like games, GUI, etc.
+
+59. What are the types of operators in C++?
+1. Arithmetic Operators: +  -  *  /  %
+2. Comparison (Relational) Operators: ==  !=  >  <  >=  <=
+3. Logical Operators: &&  ||  !
+4. Ternary Operator: ? :
+
+60. What are the 4 piller of OOP concepts in C++?
+
+1. Encapsulation
+2. Abstraction
+3. Inheritance
+4. Polymorphism
+
+61. What are the types of Inheritance ?
+
+Single Inheritance
+Multiple Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Hybrid Inheritance
+
+62. Describe the name of Encapsulation Method . 
+ 1.Getter...Setter
+ 2.this keyword
+ 3.Constructor
+ 4.Destrutor
+ 5.Static keyword
+
+63. What are the types of Polymorphism ? 
+1.Compile-Time :-
+  Method Overloading
+  Operator Overloading
+ 
+2.Run-Time :-
+  Method Overriding
+
+64.  What are the types of Abstraction ?
+ 1.Access Modifiers / Access Specifiers :-
+     Public
+     Private
+     Protected
+
+  2.Abstract Class
+  3.Interface
+
+65. What is the full form of DRY ?
+DRY :- Don't Repeat Yourself
+
+
+
